@@ -3,15 +3,18 @@
     {
       "id": 1,
       "maker": "audi",
-      "year": 2020,
-      "color": "red"
+      "year": 2022,
+      "color": "red",
+      "model": "A3 Sedan",
+      "imgURL": "https://img.remediosdigitales.com/85333c/audi-s3-2022-mexico_/840_560.jpg"
     },
     {
       "id": 2,
       "maker": "audi",
-      "year": 2010,
-      "color": "gray"
+      "year": 2022,
+      "color": "gray",
+      "model": "A3 Sedan",
+      "imgURL": "https://acnews.blob.core.windows.net/imgnews/large/NAZ_0c11779a0db545558af3bdcd55df69c5.jpg"
     }
   ]
 }
-
