@@ -139,20 +139,6 @@
       "color": "naranja",
       "model": "Frontier",
       "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/nissanFrontier.jpg"
-    }, 
-     {
-      "id": 21,
-      "maker": "Ford",
-      "color": "gris",
-      "model": "Fiesta",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordDiesta.jpg"
-    },
-    {
-      "id": 22,
-      "maker": "Ford",
-      "color": "blanco",
-      "model": "Ranger",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordRanger.jpg"
     }
   ]
 }
