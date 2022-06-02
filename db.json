@@ -153,27 +153,6 @@
       "color": "blanco",
       "model": "Ranger",
       "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordRanger.jpg"
-    },
-    {
-      "id": 23,
-      "maker": "Ford",
-      "color": "azul",
-      "model": "Focus",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordFocus.jpg"
-    },
-    {
-      "id": 24,
-      "maker": "Ford",
-      "color": "azul",
-      "model": "Escape",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordEscape.jpg"
-    },
-    {
-      "id": 25,
-      "maker": "Ford",
-      "color": "verde",
-      "model": "Focus",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordFocusVerde.jpg"
     }
   ]
 }
