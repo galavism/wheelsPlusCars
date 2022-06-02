@@ -202,13 +202,6 @@
       "color": "Rojo",
       "model": "Rio",
       "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaRioRojo.jpg"
-    },
-  {
-      "id": 30,
-      "maker": "Ford",
-      "color": "amarillo",
-      "model": "Mustang",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/mustangAmarillo.jpg"
     }
   ]
 }
