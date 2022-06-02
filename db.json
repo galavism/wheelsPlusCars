@@ -209,14 +209,6 @@
       "color": "amarillo",
       "model": "Mustang",
       "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/mustangAmarillo.jpg"
-    },
-  {
-      "id": 31,
-      "maker": "Kia",
-      "color": "Naranja",
-      "model": "Seltos",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaSeltoNaranja.jpg"
     }
-    
   ]
 }
