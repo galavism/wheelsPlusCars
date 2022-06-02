@@ -2,74 +2,228 @@
   "cars": [
     {
         "id": 1,
-        "maker": "audi",
+        "maker": "Audi",
         "color": "rojo",
         "model": "A3Sedan",
         "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/audiA3Sedanred.jpg"
       },
       {
         "id": 2,
-        "maker": "audi",
+        "maker": "Audi",
         "color": "gris",
         "model": "A3Sedan",
         "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/audiA3Sedangray.jpg"
       },
       {
         "id": 3,
-        "maker": "renault",
+        "maker": "Renault",
         "color": "azul",
         "model": "Sandero",
         "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/renault%20sandero%20azul.jpg"
       }, 
        {
         "id": 4,
-        "maker": "renault",
+        "maker": "Renault",
         "color": "blanco",
         "model": "Sandero",
         "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/renault%20sandero%20blanco.jpg"
       }, 
        {
         "id": 5,
-        "maker": "renault",
+        "maker": "Renault",
         "color": "dorado",
         "model": "Logan",
         "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/renaultlogangolden.jpg"
       }, 
        {
         "id": 6,
-        "maker": "renault",
+        "maker": "Renault",
         "color": "rojo",
         "model": "Logan",
         "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/RenaultLoganrojo.jpg"
       }, 
        {
         "id": 7,
-        "maker": "toyota",
+        "maker": "Toyota",
         "color": "gris",
         "model": "corolla",
         "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/tollotacorolagray.jpg"
       }, 
        {
         "id": 8,
-        "maker": "toyota",
+        "maker": "Toyota",
         "color": "negro",
         "model": "corolla",
         "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/toyotacorollablack.jpg"
       }, 
        {
         "id": 9,
-        "maker": "jeep",
+        "maker": "Jeep",
         "color": "amarillo",
         "model": "Wrangler",
         "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/jeepwrangleramariila.jpg"
       }, 
        {
         "id": 10,
-        "maker": "suzuki",
+        "maker": "Suzuki",
         "color": "rojo",
         "model": "Swift",
         "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/susukiswiftred.png"
-      }
+      },
+     {
+      "id": 11,
+      "maker": "Volvo",
+      "color": "plateado",
+      "model": "XC90",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/volvov90.jpg"
+    },
+    {
+      "id": 12,
+      "maker": "Volvo",
+      "color": "negro",
+      "model": "V90",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/volvov90.jpg"
+    },
+    {
+      "id": 13,
+      "maker": "Volvo",
+      "color": "azul",
+      "model": "C40",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/c40%20volvo.jpg"
+    },
+    {
+      "id": 14,
+      "maker": "Volvo",
+      "color": "negro",
+      "model": "S80",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/volvoS80.jpg"
+    },
+    {
+      "id": 15,
+      "maker": "Volvo",
+      "color": "rojo",
+      "model": "S60",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/volvoS60.jpg"
+    },
+    {
+      "id": 16,
+      "maker": "Nissan",
+      "color": "rojo",
+      "model": "Murano",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/nissanMurano2022.png"
+    },
+    {
+      "id": 17,
+      "maker": "Nissan",
+      "color": "gris",
+      "model": "March",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/nissanMarch.jpg"
+    },
+    {
+      "id": 18,
+      "maker": "Nissan",
+      "color": "rojo",
+      "model": "March",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/nissanMarchRojo.jpeg"
+    },
+    {
+      "id": 19,
+      "maker": "Nissan",
+      "color": "negro",
+      "model": "Patrol",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/nissanPatrol.jpg"
+    },
+    {
+      "id": 20,
+      "maker": "Nissan",
+      "color": "naranja",
+      "model": "Frontier",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/nissanFrontier.jpg"
+    }, 
+     {
+      "id": 21,
+      "maker": "Ford",
+      "color": "gris",
+      "model": "Fiesta",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordDiesta.jpg"
+    },
+    {
+      "id": 22,
+      "maker": "Ford",
+      "color": "blanco",
+      "model": "Ranger",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordRanger.jpg"
+    },
+    {
+      "id": 23,
+      "maker": "Ford",
+      "color": "azul",
+      "model": "Focus",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordFocus.jpg"
+    },
+    {
+      "id": 24,
+      "maker": "Ford",
+      "color": "azul",
+      "model": "Escape",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordEscape.jpg"
+    },
+    {
+      "id": 25,
+      "maker": "Ford",
+      "color": "verde",
+      "model": "Focus",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordFocusVerde.jpg"
+    },
+  {
+      "id": 26,
+      "maker": "Kia",
+      "color": "Blanco",
+      "model": "Niro",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaNirobLANCO.jpg"
+    },
+  {
+      "id": 27,
+      "maker": "Kia",
+      "color": "negro",
+      "model": "carnival",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaCarnivalNegro.jpg"
+    },
+  {
+      "id": 28,
+      "maker": "Kia",
+      "color": "Rojo",
+      "model": "Picanto",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/kiaPicantoRojo.jpg"
+    },
+  {
+      "id": 29,
+      "maker": "Kia",
+      "color": "Rojo",
+      "model": "Rio",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaRioRojo.jpg"
+    },
+  {
+      "id": 30,
+      "maker": "Ford",
+      "color": "amarillo",
+      "model": "Mustang",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/mustangAmarillo.jpg"
+    },
+  {
+      "id": 31,
+      "maker": "Kia",
+      "color": "Naranja",
+      "model": "Seltos",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaSeltoNaranja.jpg"
+    },
+  {
+      "id": 32,
+      "maker": "Kia",
+      "color": "Amarillo",
+      "model": "Stonic",
+      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaStonicAmarillo.jpg"
+    }
     
   ]
 }
