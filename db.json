@@ -216,13 +216,6 @@
       "color": "Naranja",
       "model": "Seltos",
       "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaSeltoNaranja.jpg"
-    },
-  {
-      "id": 32,
-      "maker": "Kia",
-      "color": "Amarillo",
-      "model": "Stonic",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaStonicAmarillo.jpg"
     }
     
   ]
