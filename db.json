@@ -174,34 +174,6 @@
       "color": "verde",
       "model": "Focus",
       "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/fordFocusVerde.jpg"
-    },
-  {
-      "id": 26,
-      "maker": "Kia",
-      "color": "Blanco",
-      "model": "Niro",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaNirobLANCO.jpg"
-    },
-  {
-      "id": 27,
-      "maker": "Kia",
-      "color": "negro",
-      "model": "carnival",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaCarnivalNegro.jpg"
-    },
-  {
-      "id": 28,
-      "maker": "Kia",
-      "color": "Rojo",
-      "model": "Picanto",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/kiaPicantoRojo.jpg"
-    },
-  {
-      "id": 29,
-      "maker": "Kia",
-      "color": "Rojo",
-      "model": "Rio",
-      "imgURL": "https://raw.githubusercontent.com/AlejoDiazLote/carritos/main/KiaRioRojo.jpg"
     }
   ]
 }
